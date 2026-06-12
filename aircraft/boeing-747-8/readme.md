@@ -1,6 +1,6 @@
 # Boeing 747-8
 
-[747-8 Preview](boeing-747-8.png)
+![747-8 Preview](boeing-747-8.png)
 
 ## Sources
 
