@@ -12,15 +12,14 @@ The SVGs are drawn to be clean and scalable: open them in any vector editor, rec
 
 ## Structure
 
-Each blueprint lives in its own folder, grouped by category and subcategory. Every folder contains the SVG itself, a PNG preview, and a readme file with details about the subject and the drawing.
+Each blueprint lives in its own folder, grouped by category. Every folder contains the SVG itself, a PNG preview, and a readme file with details about the subject and the drawing.
 
 ```
 aircraft/
-  passenger/
-    boeing-777/
-      boeing-777.svg
-      preview.png
-      readme.md
+  boeing-777/
+    boeing-777.svg
+    preview.png
+    readme.md
 ```
 
 ## Contributing
